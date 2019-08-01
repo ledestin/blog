@@ -1,0 +1,56 @@
+---
+layout: post
+title:  "Starting the journey"
+date:   Thu, 01 Aug 2019 21:57:33 +1200
+categories: motivation
+---
+
+My journey to find motivation started a long time ago. When I was a child and
+later, as a university student, I had motivation to do some things, like playing
+computer games. But later on, I lost most of my motivation. Even things that
+gave me joy, like watching anime, I'd have no motivation to start doing. I had
+read books and went through psychotherapy, but nothing would stick. I'd feel 
+excited right after reading yet another book, but a few days after it would all
+return back to normal, and I would struggle with motivation again.
+
+It has really changed, when I read [The Heart to Start: Stop Procrastinating & Start
+Creating](https://www.amazon.com/Heart-Start-Inner-Your-Shine-ebook/dp/B077XRMBR9/ref=tmm_kin_swatch_0?_encoding=UTF8&qid=1563193881&sr=8-1).
+This book has stuck, and I've been re-reading highlights since I had first read
+it.
+
+## What's wrong with my motivation?
+
+The truth is not that I don't have motivation, but that the motivation I've been
+using is bad. I would use the following as motivation:
+
+* If I don't do it, something bad will happen.
+* Perfectionism (to polish what I created, while I may not be interested in the
+  project).
+* It's useful for my career (even though I chose technologies based on how much
+  I like them, it was still bad).
+* I started it, so I have to continue.
+
+All the above reasons don't make for good motivation, and I would feel bad about
+them, but I had no other motivation (except for very short random bursts).
+
+## New kind of motivation that I'm using
+
+When I started doing a [brew timer](/brew-cooldown), I was curious about using
+images as a part of UI, and I wanted a timer that allowed me to wait for my tea
+to cool down.
+
+Today, when I thought about continuing with the project, I thought of things I
+can polish (perfectionism), how I could use it to find a job (useful for my
+career), and a bit of finishing it since I started it. But that motivation is
+bad, and I realise it now.
+
+So, I tried to find better motivation. And I found it:
+
+* I'd like an ability to just wait for cool down, without brewing first. Because
+  I brew some herbal teas in a thermos, when I pour from the thermos, it's
+  already brewed and I just need to wait for it to cool down.
+* I'd like to play with the idea of using HTML [range
+  element](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input/range)
+  (a slider) to enter brew time.
+
+And so, I was able to change my motivation this time.
