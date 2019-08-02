@@ -18,7 +18,7 @@ email: ledestin@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   I've been struggling with finding motivation all my life, and finally there's
   hope and progress. I'd like to document my journey to finding motivation here.
-baseurl: "/finding-motivation" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: oledestin
 github_username:  ledestin
