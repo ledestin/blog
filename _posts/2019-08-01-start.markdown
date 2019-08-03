@@ -35,7 +35,7 @@ them, but I had no other motivation (except for very short random bursts).
 
 ## New kind of motivation that I'm using
 
-When I started doing a [brew timer](/brew-cooldown), I was curious about using
+When I started doing a [brew timer](https://angry-goodall-57ead1.netlify.com/), I was curious about using
 images as a part of UI, and I wanted a timer that allowed me to wait for my tea
 to cool down.
 
