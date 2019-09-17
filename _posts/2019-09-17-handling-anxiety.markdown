@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Handling anxiousness"
+title:  "Handling anxiety"
 date:   Tue, 17 Sep 2019 07:17:13 +1200
-categories: meditation anxiousness
+categories: meditation anxiety
 ---
 
 I dread doing things like job interviews. Whenever I think of doing it, I get
