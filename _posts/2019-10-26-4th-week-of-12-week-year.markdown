@@ -35,7 +35,8 @@ There are 2 approaches:
 1. Start doing something that I'd like to do, not necessarily related to work.
   That way I get momentum, and it's easier to keep doing things afterwards.
 2. Sacrifice the comfort and start working anyway.
+3. Remember what the goals were about, that brings motivation.
 
-To be honest, I've been using the 2nd approach this week, with some success.
-It's easier to do that on workdays, cause there's work to do (i.e. something
-important to sacrifice the mood for).
+To be honest, I've been using the 2nd and 3rd approach this week, with some
+success.  It's easier to sacrifice mood on workdays, cause there's work to do
+(i.e. something important to sacrifice the mood for).
