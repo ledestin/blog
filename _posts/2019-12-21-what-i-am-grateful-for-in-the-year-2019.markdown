@@ -2,7 +2,7 @@
 layout: post
 title:  "What I am grateful for in the year 2019"
 date:   Sat, 21 Dec 2019 01:15:04 +1300
-categories: motivation, gratitude, end of year
+categories: [motivation, gratitude, end of year]
 ---
 
 <p style="text-align:center;">
