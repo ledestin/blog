@@ -40,5 +40,27 @@ So, overall, 12 week year provided:
   inessential tasks.
 * Structure. By planning tasks weekly and daily, I knew what had to be done.
 
+# What worked
+
+* Putting consistent effort into an Udemy course every day, helped me to go
+  through several of them. Vue, Docker and AWS were the ones that I finished.
+* Meditating every day.
+* Scoring the past week helped me to be motivated to do what was planned. Not
+  the best kind of motivation, but I'll take anything that helps.
+* Connecting with my goals helped with motivation.
+
+# What didn't work
+
+* I still procrastinated on items that I didn't feel like doing. I have had
+  goals and sacrificing mood, and it didn't help. I'll need to find a solution
+  to this.
+* My average score was pretty low (58%, not 85%), and I didn't reach 3 out of 4
+  goals.
+* Scoring was broken because I scored TODO list items as well, not only
+  essential activities.
+* I planned too much activities, and it affected the scores badly.
+
+# What's next
+
 I plan to take a break, and choose a new set of goals for another 12 week year
 in 2020.
