@@ -12,7 +12,7 @@ This strategy works like a charm for chores:
 2. In my [12 week year]({% post_url 2019-12-22-my-first-12-week-year-is-over %})
    setup, I have a task in Trello for "Solving problems for 1
    [pomodoro](https://en.wikipedia.org/wiki/Pomodoro_Technique) per day".
-3. I'm actually looking forward to doing it everyday.
+3. I'm actually looking forward to doing it every day.
 
 I usually think "not right now", when faced with folding clothes fresh from
 laundry, but when I have time scheduled for that, it becomes very easy to start.
