@@ -1,0 +1,81 @@
+---
+layout: post
+title:  "2020 Overview"
+date:   Fri, 01 Jan 2021 13:24:10 +1300
+categories: [end of year]
+---
+
+<p style="text-align:center;">
+ <img alt="Focused ethnic woman reading magazine in city"
+      src="/assets/images/pexels-anete-lusina-5239571.jpg"
+      height="400" />
+ <br>
+ Photo by Anete Lusina from Pexels
+</p>
+
+Compared to 2019, 2020 was a much better year. It brought lots of good stuff, or
+rather, I brought a lot of good stuff by acting.
+
+What about Covid-19? It was rather a large problem during the first lockdown,
+when I got sick and couldn't go shopping, and online grocery ordering was
+swamped with orders. I had to put my items into online basket before midnight
+and it was a race to order while there still were delivery spots. Well, that was
+rather distressing. But after the first lockdown there was no Covid-19 in the
+community for maybe a month. And there is none now.
+
+# What of note happened in 2020
+
+* I didn't make a resolution in 2019 to read more books, I just added that
+  to my [12 Week
+  Year](https://www.amazon.com/12-Week-Year-Others-Months/dp/1118509234)
+  actions. As a result, I read lots of books by reading for 1 hour every
+  workday. It was my first year so much into reading, I'm a bookworm now.
+* After reading non-tech books, like [Awaken the Giant Within](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within?ac=1&from_search=true&qid=YRN1pWVUkI&rank=1),
+  I realised that putting all my learning into tech was a mistake.
+* I stopped believing that I would wake up one day and start feeling better. It
+  happened after I started feeling better, because of [Awaken the Giant Within](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within?ac=1&from_search=true&qid=YRN1pWVUkI&rank=1).
+  For something to change, I need to make that change happen.
+* I learned how to reliably motivate myself. It takes maybe 10 minutes to write
+  things down, and I can reference them later for motivation. "Just do it" is
+  popular, because people don't have skills to motivate themselves.
+* Meditation could only take me so far. A lot of automatic reactions are stored
+  in the body. After I had started practicing tai chi, I started remembering
+  what I did to my body while I was a kid, and I started to have a bit more
+  control over my body. It is quite possible though to be performing automatic
+  reactions and having no idea why you're doing that.
+* Higher states of consciousness do exist, and it's quite possible to go down or
+  go up. I was doing some things that would drag me down, and I do less of those
+  now. And meditation, tai chi and power questions from [Awaken the Giant Within](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within?ac=1&from_search=true&qid=YRN1pWVUkI&rank=1bring) me upwards.
+* I saved money by using open-source software.
+    [KeePassXC](https://keepassxc.org/) instead of
+    [1Password](https://1password.com/),
+    [Firefly-III](https://www.firefly-iii.org/) instead of
+    [YNAB](https://www.youneedabudget.com/). I postponed MacOS upgrade for 2
+    years, so I could use an old version of YNAB, and avoid paying for the
+    online SaaS version. YNAB is $84 USD/year, so I saved $151 USD for not using
+    it for 2 years (I'd get a 10% discount as an old YNAB customer).
+* I implemented [Getting Things Done](https://gettingthingsdone.com/) and it was
+  quite interesting and helpful, but I let it lapse recently. It did take me a
+  week to setup.
+* I spent a lot of time on Twitch, and I streamed myself.
+
+# What I would not repeat from 2020
+
+* Not knowing what to do with my time.
+* Waking up before having enough sleep.
+* Cooking things I don't like to eat.
+
+# Best of 2020
+
+- Best JPOP artist - [Kumagawa
+    Miyu](https://www.youtube.com/watch?v=8dOHJCWQTFw&ab_channel=Myuk)
+- Best KPOP artist - [IZ*ONE](https://www.youtube.com/watch?v=G8GaQdW2wHc)
+- Best Western artist - [Vera Blue](https://www.youtube.com/watch?v=JrfqPKKCBIc&ab_channel=VeraBlueVEVO). She's Australian, and the MV has only ~200k views.
+- Book that had the most impact - [Awaken the Giant Within](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within?ac=1&from_search=true&qid=YRN1pWVUkI&rank=1bring)
+- Best anime - [Koe no Katachi](https://myanimelist.net/anime/28851/Koe_no_Katachi)
+- Best movie - [My Tomorrow, Your Yesterday](https://en.wikipedia.org/wiki/My_Tomorrow,_Your_Yesterday)
+- Most charming streamer - [IdleWyrd](https://www.twitch.tv/idlewyrd)
+- Best podcast - [Real Japanese Podcast](https://open.spotify.com/show/1gQ0ZdFpTOqiyLeOaCCn6U)
+- Best software - [Firefly-III](https://www.firefly-iii.org/)
+
+# Happy 2021! 🎉
