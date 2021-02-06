@@ -30,6 +30,17 @@ plugins:
   - jekyll-feed
   - jekyll-seo-tag
 
+author:
+  name: Dmitry Maksyoma
+  email: ledestin@gmail.com
+
+minima:
+  skin: dark
+  social_links:
+    twitter: oledestin
+    github:  ledestin
+    instagram: oledestin
+
 # SEO
 twitter:
   username: oledestin
