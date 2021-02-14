@@ -1,0 +1,66 @@
+---
+layout: post
+title:  "Weeknote W6 2021 - packaging for Linux and a stew recipe"
+date:   Sun, 14 Feb 2021 16:29:24 +1300
+categories: [weeknote,linux,cooking]
+---
+
+## Packaging software for major Linux distros
+
+I've been packaging [KasmVNC](https://github.com/kasmtech/KasmVNC) for major (Debian-based and Fedora-based) Linux distros for ~90 hours.
+
+I always thought packaging software for Linux would be a problem, because of the
+need to support multiple package formats (e.g. deb, rpm), multiple Linux
+distributions (e.g. Debian, CentOS), multiple releases within a distro (e.g.
+Ununtu 18, Ubuntu 20).
+
+In reality, I was able to reuse code I wrote for deb, in rpm development. I went from zero knowledge of rpm to a working draft rpm package in ~20 hours (what's left is polish and `rpmlint` errors).
+
+### What I could reuse and what couldn't
+
+Overall, a package contains package description (e.g. "Vi IMproved
+enhanced vi editor"), build dependencies (e.g. gcc), runtime dependencies (e.g. libc6), files to store (e.g. `/usr/bin/vim`) and scripts (e.g. post-install, post-remove scripts). For example, a group (like `docker` group) could be created by a post-install script.
+
+Package description is easily reused between deb and rpm.
+
+I knew what software KasmVNC depended on from making deb package, but I had to
+research in which packages it was on CentOS. For example, `lsb_release(1)` is
+in the package `lsb-release` in Debian and in `redhat-lsb-core` in CentOS.
+
+Both deb and rpm build systems auto-detect library dependencies (e.g.
+`libjpeg62-turbo`), that was a huge help.
+
+File locations on Linux are covered by [Filesystem Hierarchy
+Standard](https://en.wikipedia.org/wiki/Filesystem_Hierarchy_Standard). For
+example, config files go to `/etc`. I wrote code for deb that moves files from
+`/usr/local` (where KasmVNC build process places them) to proper locations, and
+was able to reuse the code in rpm package.
+
+I could reuse parts of package scripts (e.g. post-install script) from deb in
+rpm. Both deb and rpm use shellscript, so there's no problem reusing it.
+
+KasmVNC needs a site certificate because it works over https. Debian has a
+system-wide self-signed certificate I could use, but CentOS doesn't. I generate
+the certificate in a post-install script.
+
+Supporting multiple Debian-based distros and releases was pretty easy. There
+were minor differences with dependencies, but I don't remember any other
+issues.
+
+### Differences in build environment
+
+While deb uses standard make and shellscript files, rpm bundles everything into
+one large custom format "spec" file. Package description, dependencies,
+post-install and post-removal scripts go into a single "spec" file. I chose to
+just copy parts of the post-install script to rpm, but it's not ideal.
+
+## New wholesome stew recipe
+
+I usually eat a salad with pasta, or meat with pasta, and that's underwhelming.
+I wanted a dish that was wholesome and tasty. If you hate rice (like I did),
+this dish will show you that rice doesn't have to be disgusting.
+
+This new recipe uses cabbage, rice, meat (I use chicken), tomatoes, bell pepper
+(not in the recipe, but I love adding  it), red onion. Fairly easy to cook and
+wholesome. Hope you enjoy this
+[recipe](https://translate.google.com/translate?hl=en&sl=auto&tl=en&u=https%3A%2F%2Fladyelena.ru%2Fkapusta-s-risom-5-receptov-dlya-bystrogo-i-vkusnogo-uzhina%2F%23i-2).
