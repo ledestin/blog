@@ -19,6 +19,18 @@ layout: default
     {{ content }}
   </div>
 
+  <div>
+    <br>
+    <p>
+      <i>
+      If you have any questions or would like to discuss a topic, tweet me
+      <a href="http://www.twitter.com/intent/tweet?text=%40oledestin">
+        @oledestin
+      </a>
+      </i>
+    </p>
+  </div>
+
   <div class="PageNavigation">
     {% if page.previous.url %}
       <a class="prev" href="{{page.previous.url}}">&laquo; {{page.previous.title}}</a>
@@ -31,7 +43,6 @@ layout: default
   {%- if site.disqus.shortname -%}
     {%- include disqus_comments.html -%}
   {%- endif -%}
-
   <a class="u-url" href="{{ page.url | relative_url }}" hidden></a>
 </article>
 
