@@ -1,0 +1,43 @@
+---
+layout: post
+title:  "Weeknote W7 2021 - aiming for 2-3 open browser tabs"
+date:   Sun, 21 Feb 2021 21:48:55 +1300
+categories: [weeknote,habits]
+---
+
+## Having 2-3 open browser tabs is a goal of mine
+
+I get **anxiety** over having over 2 tabs open. Every time I look at them, **I
+worry** that I should read/watch each one.
+
+For work purposes, I use Brave with [Workona](http://workona.com/) (workspace
+tab manager), and I have only 2 tabs in the default workspace:
+  ![Workona with 2 tabs](/assets/images/Workona 2 tabs.png)
+
+I use Firefox for entertainment (read Youtube), so I feel one workspace with 2-3
+tabs open is possible. After all, I don't need to constantly reference any
+videos, because I don't do any work relevant to them.
+
+### I've closed 21 tabs in 3 weeks
+
+I've been **closing 1 tab per day** without fear of losing any
+information. Usually, I would fear losing useful information, but I prepared for
+that!
+
+I created a page called "Chill" in my [Second Brain](https://praxis.fortelabs.co/basboverview/) (a collection of notes), and I put Youtube links there.
+
+The end result looks like this:
+  ![Chill page](/assets/images/Chill page.png)
+
+Usually, it'd be a hassle to create those links, but I use [Roam
+Highlighter](https://chrome.google.com/webstore/detail/roam-highlighter/hponfflfgcjikmehlcdcnpapicnljkkc?hl=en)
+extension, and it produces markdown links like this:
+[One Simple Habit that Changed My Life - YouTube](https://www.youtube.com/watch?v=Fk3csAdegBI&ab_channel=AliAbdaal)
+
+It's been an easy [slow
+burn](https://open.spotify.com/episode/3FJuITNz2pwFq9SnA6ikpu?si=scRWfxi3QN-4zFhDAO-Ylg&nd=1) (something you do little over long time)
+to do, and I get a sense of accomplishment every time I close a tab. I would
+hate doing it all at once.
+
+Of course, I've been opening new pages too, but I found that closing even one
+tab per day, leads to overall decrease (over 3 weeks).
