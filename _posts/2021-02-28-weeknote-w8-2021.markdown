@@ -1,0 +1,49 @@
+---
+layout: post
+title:  "Weeknote W8 2021 - consistent small actions beat heroic efforts"
+date:   Mon, 01 Mar 2021 20:35:12 +1300
+categories: [weeknote,habits]
+---
+
+I've read that small long-term actions **beat a few heroic efforts**, but I
+didn't really get it until I tried.
+
+I have a few small inconsequential habits, and it shows:
+>Firefox has less and less tabs. My room is getting tidier. On some days,
+washing the peanut butter container looks like a hard task, so I fold a T-shirt
+instead. But today, I have energy, so I tackled the peanut butter container.
+There's a steady, everyday progress going on!
+
+### How I added those habits to my life
+I got the framework from [The Compound Effect: Jumpstart Your Income, Your Life,
+Your Success by Darren Hardy |
+Goodreads](https://www.goodreads.com/book/show/9420697-the-compound-effect), but
+it's quite simple:
+  * I made sure the habits are inconsequential, i.e. there are seemingly no
+    consequences if I do it. For example, tidying one item in my room,
+    closing one browser tab.
+  * I do it as a part of my morning routine, so I don't forget. I have my
+    morning routine actions written down in my [Second
+    Brain](https://praxis.fortelabs.co/basboverview/).
+
+The book though, is very good. Here's a quote:
+  > **The Compound Effect is the principle of reaping huge rewards from a series
+  of small, smart choices.** What’s most interesting about this process to me is
+  that, **even though the results are massive, the steps, in the moment, don’t
+  feel significant**. Whether you’re using this strategy for improving your
+  health, relationships, finances, or anything else for that matter, **the
+  changes are so subtle, they’re almost imperceptible. These small changes offer
+  little or no immediate result, no big win, no obvious I-told-you-so payoff. So
+  why bother?**<br>
+  -- <cite>[The Compound Effect: Jumpstart Your Income, Your Life,
+Your Success by Darren Hardy |
+Goodreads](https://www.goodreads.com/book/show/9420697-the-compound-effect)</cite>
+
+### Inspirational quote about small actions
+  > The only
+  thing you could do wrong is to do nothing. Open a book and read one page?
+  That’s progress. Watch a tutorial video? That’s awesome. Listen to a friend
+  sharing their thoughts about a coding event they attended? That counts too.
+  There is no small contribution towards your goal. Each step you take brings
+  you closer to the person you want to become.<br> -- <cite>[Mindframing: a
+  personal growth framework](https://nesslabs.com/mindframing) by Ness labs</cite>
