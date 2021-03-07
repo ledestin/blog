@@ -1,0 +1,50 @@
+---
+layout: post
+title:  "Weeknote W9 2021 - useful note taking, SEO, per-host emoji in terminal"
+date:   Sun, 07 Mar 2021 21:57:00 +1300
+categories: [weeknote,linux]
+---
+
+## Note taking was useful this week
+I watched video [My Favourite Productivity Book
+YouTube](https://www.youtube.com/watch?v=8NBhJy_GopM), and because I took notes,
+the following happened this week:
+  * It nudged me to turn on heating, and I'm less sick today (it's getting
+    colder in the Southern hemisphere).
+  * I set a calendar reminder to take medicine to help with my eye condition. As
+    I'm writing this, I realise that I could make it recurrent.
+
+Those events happened because I've been answering this question every evening:
+> _Reflect on what worked well and didn't today and what can I do to make it work_.
+
+And I've added the question to my evening routine because I took notes of the
+video.
+
+## Blogging without SEO: “The **frog** in the **well** knows nothing of the sea”
+I wrote a draft post about my morning routine and decided to research SEO. I
+was blown away by the content.
+
+My mornings are low energy, so I thought I could maybe rank on those keywords.
+Little did I know that there's a great post [13 Quick Ways to Banish Morning
+Fatigue](https://www.healthline.com/health/morning-fatigue-remedies). That post
+offers solutions to low energy mornings, and moreover, 13 of them!
+
+My morning routine isn't refined to serve one goal, so I have no chance of
+ranking well for those keywords, l guess.
+
+## Per-host emojis for the terminal
+I use MacOS as a desktop and Linux as a dev env. And, in the terminal they
+looked too similar, so I often wasn't sure if it's MacOS or Linux.
+
+I've used 👸 for the box named after [3r princess
+Renner](https://overlordmaruyama.fandom.com/wiki/Renner_Theiere_Chardelon_Ryle_Vaiself)
+and 🪲 for the box named after an
+[arachnid battle maid](https://overlordmaruyama.fandom.com/wiki/Entoma_Vasilissa_Zeta) that likes to snack on bugs:
+
+![Terminal prompt with emoji](/assets/images/renner emoji prompt.png)
+<br>
+<br>
+![Terminal prompt with emoji 2](/assets/images/entoma emoji prompt.png)
+
+I also went all out and show ascii art on login:
+{%twitter https://twitter.com/oledestin/status/1367814304481767433?s=20 %}
