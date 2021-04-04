@@ -32,7 +32,7 @@ offers solutions to low energy mornings, and moreover, 13 of them!
 My morning routine isn't refined to serve one goal, so I have no chance of
 ranking well for those keywords, l guess.
 
-## Per-host emojis for the terminal
+## <a name="emoji-in-terminal"></a>Per-host emojis for the terminal
 I use MacOS as a desktop and Linux as a dev env. And, in the terminal they
 looked too similar, so I often wasn't sure if it's MacOS or Linux.
 
