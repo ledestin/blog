@@ -30,10 +30,19 @@ habits, but little time.*
 The understanding that I don't have enough time eventually led to reading the
 book "Make Time".
 
-# What am I excited about in my life now? What about that makes me excited?
+# What am I excited about in my life now?
+
+## Example
+
 > I'm excited about writing a new blog post. I want to try writing a draft
 > first, and see if it helps me to write faster. Also, I want to try other
-> strategies.
+> writing strategies.
+
+## What good can come out of asking this
+
+This question gives me **something to look forward** in my day. I can be excited to
+watch more lectures on writing fantasy. Or reading a new book ("Show Your
+Work").
 
 # What am I proud about in my life now? What about that makes me proud?
 > I'm proud I've started to talk with more people. It took courage and some
