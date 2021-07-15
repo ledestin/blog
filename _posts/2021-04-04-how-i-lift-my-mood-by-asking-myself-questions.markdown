@@ -7,8 +7,8 @@ categories: [motivation,systems]
 permalink: /how-i-lift-my-mood-by-asking-myself-questions/
 ---
 
-These 8 questions **lift my mood** every morning. If I feel depressed, they make
-me feel happier.
+The questions **lift my mood** and provide a kind of stand-up meeting with myself
+every morning. If I feel depressed, they make me feel happier.
 
 I've provided example answers for context.
 
