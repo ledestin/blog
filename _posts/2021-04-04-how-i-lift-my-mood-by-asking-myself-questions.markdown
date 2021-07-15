@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "How I lift my mood by asking myself 8 questions (draft)"
+title:  "Instantly lift your mood by asking yourself 8 questions (draft)"
 date:   Sun, 04 Apr 2021 19:56:44 +1200
 categories: [motivation,systems]
 permalink: /how-i-lift-my-mood-by-asking-myself-questions/
