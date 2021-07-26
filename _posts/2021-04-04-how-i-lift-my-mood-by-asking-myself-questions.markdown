@@ -1,16 +1,17 @@
 ---
 layout: post
-title:  "Instantly lift your mood by asking yourself 8 questions (draft)"
+title:  "Instantly lift your mood by asking yourself 4 questions (draft)"
 date:   Sun, 04 Apr 2021 19:56:44 +1200
 categories: [motivation,systems]
-<!-- TODO: change permalink --> 
+<!-- TODO: change permalink -->
 permalink: /how-i-lift-my-mood-by-asking-myself-questions/
 ---
 
-The questions **lift my mood** and provide a kind of stand-up meeting with myself
-every morning. If I feel depressed, they make me feel happier.
+<!-- Present, future, past -->
+These questions **lift my mood** and provide a kind of stand-up meeting with
+myself every morning. If I feel depressed, they make me feel happier.
 
-# What am I happy about in my life now?
+# 1. What am I happy about in my life now?
 
 ## Example
 > I'm happy about bepanthene ointment healing my skin. And it's happening only
@@ -18,7 +19,7 @@ every morning. If I feel depressed, they make me feel happier.
 
 ## What good can come out of asking this
 
-It can be rephrased as "What good things have happened recently?". I use this
+It can be rephrased as _"What good things have happened recently?"_. I use this
 question to brief me on the latest events. For example, I watched UX videos on
 Youtube, and it went well. Or, I stuck to my new habits yesterday (one of them
 is blogging). I also start feeling good about sticking to my new habits.
@@ -30,7 +31,7 @@ habits, but little time.*
 The understanding that I don't have enough time eventually led to reading the
 book "Make Time".
 
-# What am I excited about in my life now?
+# 2. What am I excited about in my life now?
 
 ## Example
 
@@ -41,34 +42,35 @@ book "Make Time".
 ## What good can come out of asking this
 
 This question gives me **something to look forward** in my day. I can be excited to
-watch more lectures on writing fantasy. Or reading a new book ("Show Your
-Work").
+watch more lectures on writing fantasy. Or reading a book ("Mind Management").
 
-# What am I proud about in my life now? What about that makes me proud?
+# 3. What am I proud about in my life now?
+
+## Example
 > I'm proud I've started to talk with more people. It took courage and some
 > thinking to start doing that.
 
-# What am I grateful about in my life now? What about that makes me grateful?
-> I'm grateful for [decorating my computer terminals](/weeknote/linux/2021/03/07/weeknote-w9-2021.html#emoji-in-terminal) with emoji and ascii art. So
-> that the computers remind me of the characters of [my favourite light novel
-Overlord](https://overlordmaruyama.fandom.com/wiki/Overlord_(Novel_Series)) (my
-> computers are named after those characters). <link>
+## What good can come out of asking this
 
-# What am I committed to in my life right now? What about that makes me committed?
-> I'm committed to doing [KasmVNC](https://github.com/kasmtech/KasmVNC) work and writing a weeknote for my blog.
+I look at what's happened in the recent past. Instead of focusing on financial
+problems, I focus on the trend of feeling physically better. I worked on my
+diet to have fats and protein, so I can be proud of the trend of feeling better.
 
-# Can I figure outcomes for my commitments?
-> Work will bring $$ and will make the client happy. I can use this time to
-> refine my dev process.
+# 4. What is one thing I'm committed to doing today?
 
-> Writing a weeknote will let me organise my thoughts on the past week, improve
-> me as a writer and attract people I would admire.
+## Example
+> I'm committed to work on a blog post.
 
-# Who can I ask for help?
-> \<a close friend\>.
+## What good can come out of asking this
 
-# Is there someone I should spend more time with?
-> Tim Ferriss via [Tim Ferris podcast](https://tim.blog/podcast/).
+This question will lift your mood in the evening. I used to have a lot of tasks
+planned for the day, and in most cases, I wouldn't complete them all. I'd then
+feel bad about not completing them all.
+
+If you decide there's just one highly important task for the day, you'll be
+happy that you've done it. It's much easier to complete a single task and be
+happy about it. Or you can plan a lot of tasks and be unhappy you haven't done
+them all.
 
 ## Where do the questions come from?
 
