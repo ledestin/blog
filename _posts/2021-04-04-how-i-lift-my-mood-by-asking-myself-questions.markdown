@@ -19,17 +19,12 @@ myself every morning. If I feel depressed, they make me feel happier.
 
 ## What good can come out of asking this
 
-It can be rephrased as _"What good things have happened recently?"_. I use this
-question to brief me on the latest events. For example, I watched UX videos on
-Youtube, and it went well. Or, I stuck to my new habits yesterday (one of them
-is blogging). I also start feeling good about sticking to my new habits.
+I could focus on the bad (skin problems), and I'd feel bad. But I focus on the
+good (skin healing progress), and I feel good as a result.
 
-I use it to ponder on what's happened.
-*I'm happy that I kept to my habits yesterday. I even did blogging habit, when I
-had little time to do it. The main problem is lack of time. I have lots of
-habits, but little time.*
-The understanding that I don't have enough time eventually led to reading the
-book "Make Time".
+Bonus value:<br>
+It briefs me on the latest events. For example, I watched UX videos on Youtube
+yesterday, and learned about UX technique card sorting.
 
 # 2. What am I excited about in my life now?
 
