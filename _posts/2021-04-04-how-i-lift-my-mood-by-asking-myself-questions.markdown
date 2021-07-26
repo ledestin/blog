@@ -19,8 +19,9 @@ myself every morning. If I feel depressed, they make me feel happier.
 
 ## What good can come out of asking this
 
-I could focus on the bad (skin problems), and I'd feel bad. But I focus on the
-good (skin healing progress), and I feel good as a result.
+It's a chance to feel good about recent past. I could focus on the bad (skin
+problems), and I'd feel bad. But I focus on the good (skin healing progress),
+and I feel good as a result.
 
 Bonus value:<br>
 It briefs me on the latest events. For example, I watched UX videos on Youtube
@@ -36,8 +37,9 @@ yesterday, and learned about UX technique card sorting.
 
 ## What good can come out of asking this
 
-This question gives me **something to look forward** in my day. I can be excited to
-watch more lectures on writing fantasy. Or reading a book ("Mind Management").
+This question gives me **something to look forward** in my day. I can be excited
+about writing a blog post, watching more lectures on writing fantasy. Or reading
+a book ("Mind Management").
 
 # 3. What am I proud about in my life now?
 
@@ -47,9 +49,11 @@ watch more lectures on writing fantasy. Or reading a book ("Mind Management").
 
 ## What good can come out of asking this
 
-I look at what's happened in the recent past. Instead of focusing on financial
-problems, I focus on the trend of feeling physically better. I worked on my
-diet to have fats and protein, so I can be proud of the trend of feeling better.
+I look at what's happened in the recent past, but using a different angle from
+Q1. I focus on what I've done for my life to be good.
+
+For example, I worked on my diet to have fats and protein, so I can be proud of
+me feeling better now.
 
 # 4. What is one thing I'm committed to doing today?
 
@@ -58,16 +62,16 @@ diet to have fats and protein, so I can be proud of the trend of feeling better.
 
 ## What good can come out of asking this
 
-This question will lift your mood in the evening. I used to have a lot of tasks
-planned for the day, and in most cases, I wouldn't complete them all. I'd then
-feel bad about not completing them all.
+This question is meant to lift your mood later in the day. I used to have a lot
+of tasks planned for the day, and on most days, I wouldn't complete them all.
+I'd then feel bad about not completing them all.
 
 If you decide there's just one highly important task for the day, you'll be
-happy that you've done it. It's much easier to complete a single task and be
-happy about it. Or you can plan a lot of tasks and be unhappy you haven't done
-them all.
+happy that you've done it. Even if you didn't manage to complete other tasks.
+It's much easier to complete a single task and be happy about it. Or you can
+plan a lot of tasks and be unhappy you haven't done them all.
 
 ## Where do the questions come from?
 
 Most of the questions come from Tony Robbins' book [Awaken the Giant
-Within](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within?ac=1&from_search=true&qid=YRN1pWVUkI&rank=1). I highly recommend the book, it's full of empowering content.
+Within](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within?ac=1&from_search=true&qid=YRN1pWVUkI&rank=1). I highly recommend the book, it's full of empowering content. "Make Time" too.
