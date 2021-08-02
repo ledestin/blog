@@ -7,9 +7,22 @@ categories: [motivation,systems]
 permalink: /how-i-lift-my-mood-by-asking-myself-questions/
 ---
 
-<!-- Present, future, past -->
 These questions lift my mood, when I **feel depressed**. As a bonus, they
 provide a kind of stand-up meeting with myself.
+
+# How these questions work
+
+Whatever question you ask yourself, you'll always get an answer. If you ask
+"_Why am I unsuccessful?_", you'll find an answer. If you ask "_Why am I
+successful?_", you'll find an answer too.
+
+My questions focus on positive things in your past, present and future to
+**make you feel happier**.
+
+If you want to be more successful (for example), being depressed about your
+current situation doesn't help. Working on it helps. If you're in a good mood,
+your mind won't be distracted thinking about bad things and you'll get more work
+done.
 
 # 1. What am I happy about in my life now?
 
