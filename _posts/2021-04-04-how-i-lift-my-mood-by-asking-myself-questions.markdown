@@ -35,55 +35,33 @@ It's a chance to feel good about recent past. I could focus on the bad (skin
 problems), and I'd feel bad. But I focus on the good (skin healing progress),
 and I feel good as a result.
 
-Bonus value:<br>
-It briefs me on the latest events. For example, I watched UX videos on Youtube
-yesterday, and learned about UX technique card sorting.
-
 # 2. What am I excited about in my life now?
 
 ## Example
 
-> I'm excited about writing a new blog post. I want to try writing a draft
-> first, and see if it helps me to write faster. Also, I want to try other
-> writing strategies.
+> I'm excited about learning how to [write fantasy and
+Sci-fi](https://www.youtube.com/watch?v=-6HOdHEeosc&ab_channel=BrandonSanderson)..
+I love fantasy and improving my writing skills.
 
 ## What good can come out of asking this
 
-This question gives me **something to look forward** in my day. I can be excited
-about writing a blog post, watching more lectures on writing fantasy. Or reading
-a book ("Mind Management").
+This question gives me **something to look forward to** in my day. I can be
+excited about improving my writing skills or reading [another great
+book](https://www.goodreads.com/book/show/54938047-mind-management-not-time-management).
 
 # 3. What am I proud about in my life now?
 
 ## Example
-> I'm proud I've started to talk with more people. It took courage and some
-> thinking to start doing that.
+> I'm proud that my diet choices (eating an avocado and some chicken every day)
+> and daily exercise led me to feeling so healthy.
 
 ## What good can come out of asking this
 
-I look at what's happened in the recent past, but using a different angle from
-Q1. I focus on what I've done for my life to be good.
+I look at what's happened in the recent past, but using a slightly different
+angle from Q1. I focus on what I've done to improve my life.
 
-For example, I worked on my diet to have fats and protein, so I can be proud of
-me feeling better now.
+# Where to get more uplifting stuff
 
-# 4. What is one thing I'm committed to doing today?
-
-## Example
-> I'm committed to work on a blog post.
-
-## What good can come out of asking this
-
-This question is meant to lift your mood later in the day. I used to have a lot
-of tasks planned for the day, and on most days, I wouldn't complete them all.
-I'd then feel bad about not completing them all.
-
-If you decide there's just one highly important task for the day, you'll be
-happy that you've done it. Even if you didn't manage to complete other tasks.
-It's much easier to complete a single task and be happy about it. Or you can
-plan a lot of tasks and be unhappy you haven't done them all.
-
-## Where do the questions come from?
-
-Most of the questions come from Tony Robbins' book [Awaken the Giant
-Within](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within?ac=1&from_search=true&qid=YRN1pWVUkI&rank=1). I highly recommend the book, it's full of empowering content. "Make Time" too.
+These questions come from Tony Robbins' book [Awaken the Giant
+Within](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within?ac=1&from_search=true&qid=YRN1pWVUkI&rank=1).
+I highly recommend the book, it's full of empowering content.
