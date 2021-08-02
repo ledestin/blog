@@ -8,8 +8,8 @@ permalink: /how-i-lift-my-mood-by-asking-myself-questions/
 ---
 
 <!-- Present, future, past -->
-These questions **lift my mood** and provide a kind of stand-up meeting with
-myself every morning. If I feel depressed, they make me feel happier.
+These questions lift my mood, when I **feel depressed**. As a bonus, they
+provide a kind of stand-up meeting with myself.
 
 # 1. What am I happy about in my life now?
 
