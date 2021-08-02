@@ -7,8 +7,7 @@ categories: [motivation,systems]
 permalink: /how-i-lift-my-mood-by-asking-myself-questions/
 ---
 
-These questions lift my mood, when I **feel depressed**. As a bonus, they
-provide a kind of stand-up meeting with myself.
+These questions lift my mood, when I **feel depressed**.
 
 # How these questions work
 
