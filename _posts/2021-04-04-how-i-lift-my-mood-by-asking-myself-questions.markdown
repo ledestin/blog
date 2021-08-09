@@ -7,24 +7,33 @@ categories: [motivation,systems]
 permalink: /how-i-lift-my-mood-by-asking-myself-questions/
 ---
 
-I woke up one day, ready to work, and found out I was fired by the only client I
-had. I was devastated. I started turning things over in my head, and I was
-consumed by it. The volume got turned down on anything else. The world is still
-there, but it doesn't get through to me. If I try to read a book, my mind would
-still be on the bad things and I wouldn't comprehend what I'm reading.
+I woke up one day, ready to work, and found out **I was fired** by the only
+client I had. I was devastated. I started **turning things over in my head**,
+and I was consumed by it. The volume got turned down on everything else. The
+world was still there, but it didn't get through to me. I tried reading a book,
+but my mind was fixed on having no income I couldn't comprehend what I was
+reading.
 
-All I could do at that time is to wait for it to pass. Then, one day, I was
+All I could do at that time was to wait for it to pass. Then, one day, I was
 thrilled to discover a quick way out of these kinds of all-consuming
-depressions. I found it while reading [book]. In the book, Tony describes a
-thoroughly depressed [businessman] that has financial problems. Tony offered him
-some questions and in [5 minutes], the person was [jubilant]. I used Tony's
-questions for a while, and I found these 3 I'm offering here are essential for
-lifting your mood.
+depressions. I found it while reading [Awaken the Giant Within](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within?ac=1&from_search=true&qid=YRN1pWVUkI&rank=1). In the book, the author describes a
+devastated literary attorney:
+> But on that day, he had suffered what he perceived as a devastating blow — his
+> partner had left the firm, leaving him with tremendous overhead and not many
+> ideas as to how to turn it around.
+
+The author asked the attorney some questions and in several minutes:
+> he resolved to set up a new office in Connecticut not five minutes from his
+> home, bring his son into the business...
+> He got so excited, he decided to immediately go and look for a new office.
+
+I used the book's questions for a while, and I found the 3 I'm offering here
+work best for lifting my mood.
 
 # 1. What am I happy about in my life now?
 
 ## Example
-> I'm happy about bepanthene ointment healing my skin. And it's happening only
+> I'm happy about ointment healing my skin. And it's happening only
   because I chose to solve the problem instead of just suffering.
 
 ## What good can come out of asking this
@@ -74,6 +83,5 @@ done.
 
 # Where to get more uplifting stuff
 
-These questions come from Tony Robbins' book [Awaken the Giant
-Within](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within?ac=1&from_search=true&qid=YRN1pWVUkI&rank=1).
+These questions come from Tony Robbins' book [Awaken the Giant Within](https://www.goodreads.com/book/show/180116.Awaken_the_Giant_Within?ac=1&from_search=true&qid=YRN1pWVUkI&rank=1).
 I highly recommend the book, it's full of empowering content.
