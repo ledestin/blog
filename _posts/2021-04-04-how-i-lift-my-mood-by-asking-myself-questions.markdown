@@ -70,7 +70,7 @@ angle from Q1. I focus on what I've done to improve my life.
 # How these questions work
 
 Whatever question you ask yourself, you'll always get an answer. If you ask
-"_Why am I unsuccessful?_", you'll find an answer. If you ask "_Why am I
+"_Why am I a failure?_", you'll find an answer. If you ask "_Why am I
 successful?_", you'll find an answer too.
 
 My questions focus on positive things in your past, present and future to
