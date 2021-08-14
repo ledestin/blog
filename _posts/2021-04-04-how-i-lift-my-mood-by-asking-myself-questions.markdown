@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Instantly lift your mood by asking yourself 3 questions (draft)"
+title:  "Instantly lift your mood by asking yourself 3 questions"
 date:   Sun, 04 Apr 2021 19:56:44 +1200
 categories: [motivation,systems]
 <!-- TODO: change permalink -->
