@@ -1,10 +1,9 @@
 ---
 layout: post
 title:  "Instantly lift your mood by asking yourself 3 questions"
-date:   Sun, 04 Apr 2021 19:56:44 +1200
+date:   Sun, 12 Sep 2021 16:06:32 +1200
 categories: [motivation,systems]
-<!-- TODO: change permalink -->
-permalink: /how-i-lift-my-mood-by-asking-myself-questions/
+permalink: /instantly-lift-your-mood-by-asking-yourself-3-questions/
 ---
 
 I woke up one day, ready to work, and found out **I was fired** by the only
