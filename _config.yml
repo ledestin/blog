@@ -47,6 +47,10 @@ twitter:
   username: oledestin
   card: summary
 
+google:
+  tag_manager:
+    container_id: GTM-WP8LC9S
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
