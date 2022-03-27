@@ -28,7 +28,7 @@ But how could I achieve that?
 
 By May 2021, things didn't improve (after all, I didn't do anything to improve them). I was escaping my problems by watching political videos. I procrastinated on everything, except YouTube.
 
-By a [friend's recommendation](https://raddevon.com/articles/web-dev-book-club-atomic-habits/), I read [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/book/show/40121378-atomic-habits)  After that, I added 14 new "habits", like daily writing, going for a walk, and doing skincare.
+By a [friend's recommendation](https://raddevon.com/articles/web-dev-book-club-atomic-habits/), I read [Atomic Habits: An Easy & Proven Way to Build Good Habits & Break Bad Ones](https://www.goodreads.com/book/show/40121378-atomic-habits). After that, I added 14 new "habits", like daily writing, going for a walk, and doing skincare.
 
 Those "habits" were just notes I was supposed to read, get motivated, and do the habit. It motivated me with rewards. I was supposed to reward myself before doing the habit, reward myself while doing the habit, and reward myself after doing the habit.
 For example:
