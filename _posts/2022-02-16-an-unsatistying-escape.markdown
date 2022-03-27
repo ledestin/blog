@@ -4,6 +4,7 @@ title:  "An Unsatisfying Escape Into YouTube"
 description: "The journey to stop my YouTube addiction. Strategies I tried, failures and wins."
 date:   Sun, 27 Mar 2022 12:03:09 +1300
 categories: [motivation,systems]
+permalink: /an-unsatisfying-escape-into-youtube/
 ---
 
 The journey to stop my YouTube addiction. Strategies I tried, failures and wins.
