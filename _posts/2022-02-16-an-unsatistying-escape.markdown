@@ -120,6 +120,3 @@ I don't have outstanding results right now. I'm still interested in political Yo
 
 I've been aiming to feel this way my whole life, and I'm finally at the point of living a life free of pain. I hope to celebrate the victory this year (I'm rapidly improving now 🚀):
 ![Leia gives medals to Han Solo, Chewbakka and Luke Skywalker](/assets/images/Leia gives medals to Han Solo, Chewbakka and Luke Skywalker.jpg)
-
-Did something similar to my YouTube addiction happen to you? What did you do about it? Let's talk about that!
-
