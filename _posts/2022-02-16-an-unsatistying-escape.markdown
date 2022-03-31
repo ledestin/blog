@@ -14,13 +14,24 @@ Photo by [Alexandre Chambon](https://unsplash.com/@goodspleen?utm_source=unsplas
 
 ~One year ago, I didn't want to do anything, except watch YouTube.
 
-I chose YouTube over things I liked, like reading books and watching anime. YouTube was **bland**, but at least, it **wasn't painful**. If I started reading a book, I'd enjoy it, but it was painful to start reading.
+I chose YouTube over things I liked, like reading books and watching anime.
+YouTube was **bland**, but at least, it **wasn't painful**. I wouldn't start
+reading a book, despite knowing I'd enjoy it, because it was painful to start
+reading. I'd imagine reading a book and get a virtual **punch in the gut**.
 
-Filling my life with bland stuff was unsatisfying. YouTube didn't yield profound ideas, like books did. It didn't ignite my emotions like anime did. It wasn't interesting as my work was. **It was just a way to forget about problems and be carefree.** I was using YouTube the same way an alcoholic uses liquor, to escape problems.
+Filling my life with bland stuff was unsatisfying. YouTube didn't yield profound
+ideas, like books did. It didn't ignite my emotions like anime did. It wasn't
+interesting as my work was. **It was just a way to forget about problems and be
+carefree.** I was using YouTube the same way an alcoholic uses liquor, to escape
+problems.
 
 This wasn't a life I wanted to live.
 
-I encounter and fix bugs in software professionally, but now I had found one in my life. I was incorrectly predicting that wholesome activities like reading books would be painful. The bug caused me to stick to unwholesome, but not painful activities like YouTube. I wanted to **fix the bug**, so I could **fill my life with wholesome and pleasant things**.
+I encounter and fix bugs in software professionally, but now I had found one in
+my life. I was incorrectly predicting that wholesome activities like reading
+books would be painful. The bug caused me to stick to unwholesome, but not
+painful activities like YouTube. I wanted to **fix the bug**, so I could **fill
+my life with wholesome and pleasant things**.
 
 But how could I achieve that?
 
