@@ -108,8 +108,6 @@ By the end of 2021, the books I had read led to a few good things:
 - I was less anxious, because I was taking 800mg of [L-Theanine](https://www.healthline.com/health/l-theanine) every day. My IQ (figure of speech) skyrocketed. I read about L-Theanine in [Mind Management, Not Time Management](https://kadavy.net/mind-management-not-time-management/) (the book I had been re-reading and applying).
 - Less cooking procrastination, because I was reading [Elantris](https://www.goodreads.com/book/show/68427.Elantris) or practicing [Tai Chi](https://www.21stcenturytaichi.com/) while cooking. This "task pairing" idea came out of [Unlocking Hidden Hours: Doing Time Right](https://stephsmithio.gumroad.com/l/doing-time-right).
 - In December 2021, I walked 25 days out of 31 (80%). Going for a walk became a habit. The inertia compelled me to continue every day. The habit tracker on the wall definitely helped. It came out of applying [Atomic Habits](https://www.goodreads.com/book/show/40121378-atomic-habits). I use task pairing here as well, pairing walks with listening to anime, to immerse myself in the Japanese language.
- 
-**The books I read weren't in vain**, I gained something of value from each of them.
 
 The books I read weren't in vain, I gained something of value from each of them.
 I had more wholesome things in my life, but the motivation bug was still there.
