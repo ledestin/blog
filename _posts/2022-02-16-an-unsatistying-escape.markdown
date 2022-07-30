@@ -111,7 +111,14 @@ By the end of 2021, the books I had read led to a few good things:
  
 **The books I read weren't in vain**, I gained something of value from each of them.
 
-I had more wholesome things in my life, but the motivation bug was still there. I still was watching a lot of political YouTube.
+The books I read weren't in vain, I gained something of value from each of them.
+I had more wholesome things in my life, but the motivation bug was still there.
+I still was watching a lot of political YouTube.
+
+I didn't realise at the time that **all of it** was still **horribly wrong**.
+
+Because, I still felt like I was **punched in the gut**, when I needed to do
+something, outside of watching YouTube 😭.
 
 ## A New Hope
 
