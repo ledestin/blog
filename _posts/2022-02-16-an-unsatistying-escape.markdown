@@ -118,25 +118,40 @@ I didn't realise at the time that **all of it** was still **horribly wrong**.
 Because, I still felt like I was **punched in the gut**, when I needed to do
 something, outside of watching YouTube 😭.
 
-## A New Hope
+## Trying to follow my passion
 
-In 2022, I finally decided to take an old advice seriously, and tried sleeping
-while wearing a [cervical
-collar](https://www.healthline.com/health/cervical-collar). It made a galaxy of
-difference. I started to feel fantastic, thus removing the main cue (feeling
-unwell) for my YouTube addiction.
+Half a year later, I watched [a video](https://www.youtube.com/watch?v=A2sS00egAzg&ab_channel=ElizabethFilips),
+that explained how to stop feeling like I'm punched in the gut -- by optimising
+for passion, instead of consistency.
 
-After feeling fantastic for a week, I went back to feeling like 💩.
+I always had my passion in sight, but I chose to do things I didn't want to
+do, **because that was productive**. When I wanted to do something, I tried to
+find something "productive", and do that instead. It's a sad story.
 
-But I got a taste of what life can be 😭😭😭. Soon, I rented a [CPAP machine](https://www.healthline.com/health/what-is-a-cpap-machine). CPAP machines deliver a stream of fresh air into your airways through a mask and a tube.
+The video (by [Elizabeth Filips](https://www.elizabethfilips.com/)) convinced me
+that following passion was productive:
 
-It's been a few weeks of sleeping with a CPAP machine. Every day I wake up energised, I don't have horrible nausea in my chest that I'm so used to have. There's less need to distract myself from feeling unwell by watching YouTube.
+> You slowly build passion, and then you reach a tipping point, when you want
+to learn this thing right now. Then you binge-learn (Elizabeth sat at her
+laptop for 15 hours and learned 3D modeling from zero). She improved 1000% in
+just 3 days.
 
-I've started timeboxing YouTube. I figured out techniques to motivate myself if I predict I'll be miserable doing a task. These questions help me have other interests from political YouTube:
-- Which topic interests me today (to immerse myself in it)?
-- What is the seed I want to plant today, that I want to reap benefits of in 1, 2, 5, 10 years?
+I am certainly accomplishing more with this strategy. It's easy to accomplish
+more, because I don't procrastinate on YouTube.
 
-I don't have outstanding results right now. I'm still interested in political YouTube, especially with the Ukraine 🇺🇦 war. It's past 2am 🌘, and I'm working on this post. Usually, it's painful to start working on a blog post, but not today.
+Yesterday, I binge-learned spreadsheets. I learned from one source, then from a
+few others. All because I was interested. Now I have a basic level of
+understanding of what spreadsheets can do. After that, I branched into learning
+statistics, because I lacked skills to chart my weight, steps and happiness
+data. It's a better way of learning.
 
-I've been aiming to feel this way my whole life, and I'm finally at the point of living a life free of pain. I hope to celebrate the victory this year (I'm rapidly improving now 🚀):
-![Leia gives medals to Han Solo, Chewbakka and Luke Skywalker](/assets/images/Leia gives medals to Han Solo, Chewbakka and Luke Skywalker.jpg)
+Today, I'm binge-writing this post. It's my third hour writing it, and I'm
+getting energy from writing, instead of losing energy.
+
+All without procrastinating on YouTube. I don't need to escape into
+YouTube now, because it's easy to start things, when I want to do them.
+
+I was always inspired by this quote, but now I might live it myself:
+> It looks like work to them, but it feels like play to me. And that's how I
+know no one can compete with me on it. Because I'm just playing 16 hours a day.
+-- Naval Ravikant
