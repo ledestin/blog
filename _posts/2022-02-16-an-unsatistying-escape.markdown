@@ -122,7 +122,11 @@ something, outside of watching YouTube 😭.
 
 ## A New Hope
 
-In 2022, I finally decided to take an old advice seriously, and tried sleeping while wearing a [cervical collar](https://www.healthline.com/health/cervical-collar). It made a galaxy of difference. I started to feel fantastic, thus removing the main cue (feeling unwell) for my YouTube addiction.
+In 2022, I finally decided to take an old advice seriously, and tried sleeping
+while wearing a [cervical
+collar](https://www.healthline.com/health/cervical-collar). It made a galaxy of
+difference. I started to feel fantastic, thus removing the main cue (feeling
+unwell) for my YouTube addiction.
 
 After feeling fantastic for a week, I went back to feeling like 💩.
 
