@@ -120,38 +120,51 @@ something, outside of watching YouTube 😭.
 
 ## Trying to follow my passion
 
-Half a year later, I watched [a video](https://www.youtube.com/watch?v=A2sS00egAzg&ab_channel=ElizabethFilips),
-that explained how to stop feeling like I'm punched in the gut -- by optimising
-for passion, instead of consistency.
+Half a year later, I learned how to to stop feeling like I'm punched in the gut.
 
-I always had my passion in sight, but I chose to do things I didn't want to
-do, **because that was productive**. When I wanted to do something, I tried to
-find something "productive", and do that instead. It's a sad story.
+Punching worked like this. If I wanted to read a book, I'd instead do something
+I didn't want to do, like reading email.  Because, **that was productive**. And,
+doing something I didn't want to do, felt like I was punched in the gut.
 
-The video (by [Elizabeth Filips](https://www.elizabethfilips.com/)) convinced me
-that following passion was productive:
+I watched a new video from my favourite YouTuber, and she said that
+[following passion was
+productive](https://www.youtube.com/watch?v=A2sS00egAzg&ab_channel=ElizabethFilips):
 
 > You slowly build passion, and then you reach a tipping point, when you want
 to learn this thing right now. Then you binge-learn (Elizabeth sat at her
 laptop for 15 hours and learned 3D modeling from zero). She improved 1000% in
 just 3 days.
 
-I am certainly accomplishing more with this strategy. It's easy to accomplish
-more, because I don't procrastinate on YouTube.
+Could I really do whatever I was passionate about and be productive?
 
-Yesterday, I binge-learned spreadsheets. I learned from one source, then from a
-few others. All because I was interested. Now I have a basic level of
-understanding of what spreadsheets can do. After that, I branched into learning
-statistics, because I lacked skills to chart my weight, steps and happiness
-data. It's a better way of learning.
+I tried it out.
 
-Today, I'm binge-writing this post. It's my third hour writing it, and I'm
-getting energy from writing, instead of losing energy.
+My energy level **exploded to 2-4x** of my usual miserable level.
 
-All without procrastinating on YouTube. I don't need to escape into
-YouTube now, because it's easy to start things, when I want to do them.
+What I did with the energy:
+* Invested in marketing and found a freelance client that pays 2x.
+* Binge-learned spreadsheets. After that, I branched into learning statistics,
+because I lacked skills to chart my weight, steps and happiness data.
+* Worked on this blog post without feeling that I was punched in the gut.
+* Binged a business book for 5 hours in a day (wouldn't happen before).
 
-I was always inspired by this quote, but now I might live it myself:
+It's possible to direct passion, so you end up **doing only what you're
+passionate about**.  I exposed myself to productive things, so I became
+passionate about productive things.
+
+I stopped escaping into YouTube, because my life became satisfying.
+
+I'm almost there:
 > It looks like work to them, but it feels like play to me. And that's how I
 know no one can compete with me on it. Because I'm just playing 16 hours a day.
 -- Naval Ravikant
+
+---
+If you feel like trying out following your passion, watch these videos:
+* [You're Not Lazy: How to Live a Chaotically Organised Life](https://www.youtube.com/watch?v=A2sS00egAzg) 
+* [You Don't Hate It: How to NOT Quit Everything You Start](https://www.youtube.com/watch?v=Q7t-NODaULg&t=913s) 
+
+Caveat: following my passion was the final piece of the puzzle for me. The other
+pieces are [meditation](https://www.wakingup.com/), psychotherapy and [second
+brain](https://www.goodreads.com/book/show/59616977-building-a-second-brain).
+I'd still expect optimising for passion would give you more energy.
