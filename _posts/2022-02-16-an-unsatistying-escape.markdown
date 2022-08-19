@@ -164,7 +164,7 @@ And now my life became close to being like that quote.
 I *stopped escaping* into YouTube (mostly), because I'm happy doing what I'm
 passionate about.
 
-And they lived happily ever after 🌹🦄🏰🌙
+*And they lived happily ever after* 🌹🦄🏰🌙
 
 ## Feeling like trying to follow your passion?
 
