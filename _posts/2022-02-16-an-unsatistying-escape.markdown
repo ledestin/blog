@@ -126,12 +126,12 @@ Half a year later, I learned how to to stop figuratively punching myself in the
 gut.
 
 Technically, punching worked like this. I force myself to do something -> I fell
-punched in the gut. And, I **forced** myself to do **something productive** all
+punched in the gut. And, I **forced** myself to do **productive** stuff all
 the time. For example, if I wanted to read a book, I'd instead do something I
 didn't want to do, like reading email. Because, **reading email was
 productive**, and reading a book wasn't.
 
-I watched a new video from my favourite YouTuber, and she said that
+And then, my favourite YouTuber said that
 [following passion was
 productive](https://www.youtube.com/watch?v=A2sS00egAzg&ab_channel=ElizabethFilips):
 
@@ -142,34 +142,37 @@ just 3 days.
 
 Could I really do whatever I was passionate about and be productive?
 
-I tried it out.
+I was excited to try it out.
 
-My energy level **exploded to 2-4x** of my usual miserable level.
+I binge-learned spreadsheets, then statistics. I binge-read a business book for
+5 hours. I invested in marketing and found a freelance client that pays 2x. All
+because **I wanted** to.
 
-What I did with the energy:
-* Invested in marketing and found a freelance client that pays 2x.
-* Binge-learned spreadsheets. After that, I branched into learning statistics,
-because I lacked skills to chart my weight, steps and happiness data.
-* Worked on this blog post without feeling that I was punched in the gut.
-* Binged a business book for 5 hours in a day (wouldn't happen before).
+Guess what, my energy level *exploded to 2-4x* of my usual miserable level.
 
-It's possible to direct passion, so you end up **doing only what you're
-passionate about**.  I exposed myself to productive things, so I became
-passionate about productive things.
+I ended up **doing only what I was passionate about**. The trick was to become
+passionate about enough productive things, to take care of that money problem
+everyone's talking about.
 
-I stopped escaping into YouTube, because my life became satisfying.
-
-I'm almost there:
+This quote has been a holy grail of mine since I discovered it:
 > It looks like work to them, but it feels like play to me. And that's how I
 know no one can compete with me on it. Because I'm just playing 16 hours a day.
 -- Naval Ravikant
 
----
-If you feel like trying out following your passion, watch these videos:
+And now my life became close to being like that quote.
+
+I *stopped escaping* into YouTube (mostly), because I'm happy doing what I'm
+passionate about.
+
+## Feeling like trying to follow your passion?
+
+If you feel like trying out following your passion, start here:
 * [You're Not Lazy: How to Live a Chaotically Organised Life](https://www.youtube.com/watch?v=A2sS00egAzg) 
 * [You Don't Hate It: How to NOT Quit Everything You Start](https://www.youtube.com/watch?v=Q7t-NODaULg&t=913s) 
 
-Caveat: following my passion was the final piece of the puzzle for me. The other
-pieces are [meditation](https://www.wakingup.com/), psychotherapy and [second
+*Caveat*: following my passion was the final piece of the puzzle for me. The other
+pieces are [meditation](https://www.wakingup.com/), psychotherapy and having a
+[second
 brain](https://www.goodreads.com/book/show/59616977-building-a-second-brain).
-I'd still expect optimising for passion would give you more energy.
+Even without other pieces of the puzzle, I'd still expect optimising for passion
+to give you more energy.
