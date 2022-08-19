@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "An Unsatisfying Escape Into YouTube and Out"
+title:  "An Unsatisfying Escape Into YouTube"
 description: "The journey to stop my YouTube addiction. Strategies I tried, failures and wins."
 date:   Sun, 27 Mar 2022 12:03:09 +1300
 categories: [motivation,systems]
@@ -120,7 +120,7 @@ something, outside of watching YouTube 😭.
 
 Would you choose watching YouTube over being punched in the gut? I sure did.
 
-## Trying to follow my passion
+## Trying to follow my passion (Doing what I feel like doing)
 
 Half a year later, I learned how to to stop figuratively punching myself in the
 gut.
