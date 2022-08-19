@@ -118,9 +118,12 @@ Despite good things happening, my life was still **terrible**.
 Because, I still felt like I was **punched in the gut**, when I needed to do
 something, outside of watching YouTube 😭.
 
+Would you choose watching YouTube over being punched in the gut? I did.
+
 ## Trying to follow my passion
 
-Half a year later, I learned how to to stop feeling like I'm punched in the gut.
+Half a year later, I learned how to to stop figuratively punching myself in the
+gut.
 
 Punching worked like this. If I wanted to read a book, I'd instead do something
 I didn't want to do, like reading email.  Because, **that was productive**. And,
