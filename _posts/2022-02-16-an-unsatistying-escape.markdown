@@ -120,7 +120,7 @@ something, outside of watching YouTube 😭.
 
 Would you choose watching YouTube over being punched in the gut? I sure did.
 
-## Trying "Organised Chaos" (Only do things I'm passionate about) 
+## Trying "Organised Chaos" (Only do things I'm passionate about)
 
 Half a year later, I learned how to to stop figuratively punching myself in the
 gut.
@@ -144,8 +144,10 @@ Could I really do **only** what I wanted and be productive?
 
 I was excited to try it out.
 
-I tried it on the task of making Thingsboard (an IoT dashboard) receive data
-from AWS IoT.
+### Trying it on an unappealing task
+
+I tried it on the task of making Thingsboard (an IoT dashboard) bridge with
+AWS IoT.
 I had **no interest** in doing the task and the docs were really thick.
 
 I started priming myself to get **passionate** about the task.
@@ -177,17 +179,21 @@ while trying to see the big picture and first principles in Thingsboard
 architecture.
 
 Notice what happened? I didn't have to **punch myself in the gut** in order to
-start working! I started working out of interest, I actually **did what I
-wanted**! 😭
+start working! I worked out of interest, I actually **did what I
+wanted**!
 
 Instead of working for someone else's benefit (not motivating), I
 was working for **my own benefit** by improving my skills (very motivating).
 
+### Is it a happy end then?
+
+Yes, it's an imperfect happy end.
+
 Do I still escape into YouTube? Yes.<br>
 Do I do **only** what I want? Not yet.<br>
-Do I do more things that I like? Hell, yes!<br>
+Do I do heaps more of things that I like? Hell, yes!<br>
 
-It's not perfect, but at this point I can say:
+It's imperfect, but at this point I can finally say:
 
 *And they lived happily ever after* 🌹🦄🏰🌙
 
