@@ -120,7 +120,7 @@ something, outside of watching YouTube 😭.
 
 Would you choose watching YouTube over being punched in the gut? I sure did.
 
-## Trying to follow my passion (Only do things I'm passionate about) 
+## Trying "Organised Chaos" (Only do things I'm passionate about) 
 
 Half a year later, I learned how to to stop figuratively punching myself in the
 gut.
@@ -140,49 +140,54 @@ to learn this thing right now. Then you binge-learn (Elizabeth sat at her
 laptop for 15 hours and learned 3D modeling from zero). She improved 1000% in
 just 3 days.
 
-Could I really do whatever I was passionate about and be productive?
+Could I really do **only** what I wanted and be productive?
 
 I was excited to try it out.
 
-I tried it on the task of making [Thingsboard] (IoT dashboard) get data from AWS
-IoT.
-I had no interest in doing the task and the docs were really thick. The skills I
-needed to excel at that task were "taking notes" and "first-principles
-thinking". "Taking notes" was useful to prepare future me for working with
-Thingsboard again, and possibly blogging about it. "First-principles thinking"
-was a great way to make sense of anything and not get bored.
+I tried it on the task of making Thingsboard (an IoT dashboard) receive data
+from AWS IoT.
+I had **no interest** in doing the task and the docs were really thick.
 
-I watched a video on how to take notes well and read a post about
-[first-principle thinking]. By the end of the priming, I had a mild interest in
-reading Thingsboard docs.  So, I started working out of interest and didn't have
-to force myself to work! 😭
+I started priming myself to get **passionate** about the task.
+> Put the task to the side for a moment, what skills does this task require? List
+>them.
 
-Essentially, instead of working for someone else's benefit (not motivating), I
+I listed the skills:
+* Taking notes
+* Big picture thinking
+* [First principles thinking](https://fs.blog/2018/04/first-principles/)
+
+> How can improving any of these skills be used to make you better at other
+> things you’re interested in?
+
+* "Taking notes" skill would allow me to prepare cheatsheets and
+    [SOPs](https://www.youtube.com/watch?v=C6uitEnS95I) for the
+  future me. I already had notes on writing, marketing, freelancing, but they
+  weren't that useful. I wanted to improve the skill.
+* "Big picture thinking" and "First principles thinking" would be useful in
+  figuring things out in writing, SEO, marketing, tech. Everywhere.
+
+> What are the very core functions of this app/laws in this domain/rules in the
+> field that you need to know?
+
+And so, I watched a video on taking notes, and read a post about
+first principle thinking. After doing that, I had a **mild interest** in doing
+the task (bridging Thingsboard and AWS IoT). So, I started reading the docs,
+while trying to see the big picture and first principles in Thingsboard
+architecture.
+
+Notice what happened? I didn't have to **punch myself in the gut** in order to
+start working! I started working out of interest, I actually **did what I
+wanted**! 😭
+
+Instead of working for someone else's benefit (not motivating), I
 was working for **my own benefit** by improving my skills (very motivating).
 
-Another example. I hated looking for clients, until I framed it as improving of
-writing and marketing skills. My marketing efforts led me to signing up a new
-client that pays 2x.
-
-Priming works for most tasks, except the most boring, like changing bed sheets.
-For hopeless tasks like that I turn on a book to listen to.
-
-At this point, it's mild interest, rather than passion, but it's so much better
-than forcing myself to do tasks 😭. My quality of life is so much better now.
-My life was like being in a cold snowy wasteland, and now it's something like
-Iceland - not hot yet, but milder than a cold wasteland. [picture]?
-
 Do I still escape into YouTube? Yes.<br>
-Do I escape less? Yes.
+Do I do **only** what I want? Not yet.<br>
+Do I do more things that I like? Hell, yes!<br>
 
-I do spend more time on things that I like. For example, I figured I need
-negotiation skills to talk to a prospective client. I totally enjoyed learning
-negotiation and it made talking to the prospective client less painful.
-
-My goal:
-> It looks like work to them, but it feels like play to me. And that's how I
-know no one can compete with me on it. Because I'm just playing 16 hours a day.
--- Naval Ravikant
+It's not perfect, but at this point I can say:
 
 *And they lived happily ever after* 🌹🦄🏰🌙
 
@@ -192,3 +197,7 @@ Start here:
 * [You're Not Lazy: How to Live a Chaotically Organised Life](https://www.youtube.com/watch?v=A2sS00egAzg) 
 * [You Don't Hate It: How to NOT Quit Everything You Start](https://www.youtube.com/watch?v=Q7t-NODaULg&t=913s) 
 * [Organised Chaos: Bundle](https://lizziefilips.gumroad.com/l/krcnc) 
+
+> It looks like work to them, but it feels like play to me. And that's how I
+know no one can compete with me on it. Because I'm just playing 16 hours a day.
+-- Naval Ravikant
