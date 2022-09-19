@@ -162,7 +162,7 @@ I listed the skills:
 > How can improving any of these skills be used to make you better at other
 > things you’re interested in?
 
-* "Taking notes" skill would allow me to prepare cheatsheets and
+* "Taking notes" skill would allow me to prepare cheat sheets and
     [SOPs](https://www.youtube.com/watch?v=C6uitEnS95I) for the
   future me. I already had notes on writing, marketing, freelancing, but they
   weren't that useful. I wanted to improve the skill.
@@ -172,11 +172,11 @@ I listed the skills:
 > What are the very core functions of this app/laws in this domain/rules in the
 > field that you need to know?
 
-And so, I watched a video on taking notes, and read a post about
-first principle thinking. After doing that, I had a **mild interest** in doing
-the task (bridging Thingsboard and AWS IoT). So, I started reading the docs,
-while trying to see the big picture and first principles in Thingsboard
-architecture.
+To find out core rules of the skill domains, I watched a video on taking notes,
+and read a post about first principle thinking. After doing that, I had a **mild
+interest** in doing the task (bridging Thingsboard and AWS IoT). So, I started
+reading Thingsboard docs, while trying to see the big picture and first
+principles in Thingsboard architecture.
 
 Notice what happened? I didn't have to **punch myself in the gut** in order to
 start working! I worked out of interest, I actually **did what I
@@ -187,13 +187,20 @@ was working for **my own benefit** by improving my skills (very motivating).
 
 ### Is it a happy end then?
 
-Yes, it's an imperfect happy end.
+Yes, it's an imperfect happy end. I've fixed only a part of the bug.
 
-Do I still escape into YouTube? Yes.<br>
-Do I do **only** what I want? Not yet.<br>
-Do I do heaps more of things that I like? Hell, yes!<br>
+I still predict that wholesome things (like reading books) are painful. But, I
+can motivate myself to get passionate about doing them. And, when I'm passionate
+about doing a thing, I no longer feel punched in the gut, when starting on it.
 
-It's imperfect, but at this point I can finally say:
+The not-fixed-part of the bug is that I still struggle to **start** motivating
+myself, and that the initial state is wrong (set to dislike).
+
+My goal to "fill my life with **wholesome and pleasant** things" partly came
+true. I can motivate myself to do wholesome things, so I do more wholesome
+things, and less of languishing with YouTube.
+
+It's imperfect, but I'm closer to...
 
 *And they lived happily ever after* 🌹🦄🏰🌙
 
